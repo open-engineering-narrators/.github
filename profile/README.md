@@ -1,6 +1,8 @@
-Open Engineering Narrators
+# Open Engineering Narrators
 
 Open Engineering Narrators defines the concepts, conventions, and metadata for narrators within the Open Engineering ecosystem.
+
+![Open Engineering Narrators Hero-banner.png](../assets/hero-banner.png)
 
 A narrator provides a reusable way to turn an Open Engineering artefact into a coherent narrative.
 
